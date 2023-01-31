@@ -2,6 +2,8 @@
 
 ´´´
 Calcular Seguro Social Facultativo: 7%
-Impuesto sobre  la renta
+Impuesto sobre  la renta: LCT 822
+
+Version: 0.1 
 
 ´´´
